@@ -47,7 +47,7 @@ It is an online gadget store with product categories, favorites, a shopping cart
 
 ---
 
-🚀 Getting Started
+## 🚀 Getting Started
 Clone the repository
 
 git clone https://github.com/panasovskyi/gadget-catalog.git
