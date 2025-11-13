@@ -46,3 +46,18 @@ It is an online gadget store with product categories, favorites, a shopping cart
 | 💿 LocalStorage | Persistent data storage |
 
 ---
+
+🚀 Getting Started
+Clone the repository
+
+git clone https://github.com/panasovskyi/gadget-catalog.git
+cd gadget-catalog
+Install dependencies
+
+npm install or yarn install
+
+Run the project locally
+
+npm start or yarn start
+
+---
